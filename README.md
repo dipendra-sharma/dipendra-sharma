@@ -1,4 +1,4 @@
-I'm a fun-loving and nerdy Swed living in Oslo, Norway. After getting hooked on creating open source components and can't seem to stop.
+<!-- I'm a fun-loving and nerdy Swed living in Oslo, Norway. After getting hooked on creating open source components and can't seem to stop.
 
 I've built and open sourced the following things:
 
@@ -12,6 +12,6 @@ I've built and open sourced the following things:
 I've recently taken over responsibility for maintaining [InjectionIII](https://itunes.apple.com/no/app/injectioniii/id1380446739?mt=12) which you can find in the Mac App Store. InjectionIII is a menu-based application that enables run-time code injection in Swift and Objective-C.
 
 When I'm not doing open-sourcing, I find myself writing about it on Medium. You can find my medium profile here: [https://medium.com/@zenangst](https://medium.com/@zenangst)
-So, if you like what I do... why not [support me](https://github.com/sponsors/zenangst) and see how far we can take this open-source party? :)
+So, if you like what I do... why not [support me](https://github.com/sponsors/zenangst) and see how far we can take this open-source party? :) -->
 
-![zenangst's github stats](https://github-readme-stats.vercel.app/api?username=zenangst&show_icons=true&theme=bear)
+![zenangst's github stats](https://github-readme-stats.vercel.app/api?username=dipendra-sharma&show_icons=true&theme=bear)
